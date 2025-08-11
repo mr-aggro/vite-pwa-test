@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/vite-pwa-test/sw.js', { scope: '/vite-pwa-test/' })})}
