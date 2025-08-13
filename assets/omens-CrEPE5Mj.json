@@ -1,0 +1,166 @@
+{
+    "version": "0.0.2",
+    "lastUpdated": "2025-08-12",
+    "omens": [
+        {
+            "id": "comet-I8",
+            "icon": "Comet",
+            "code": "I8",
+            "repeatable": false,
+            "description": {
+                "en": "**An unfathomably large egg shell lies before you, split and dry. Its white would have been an ocean, its yolk an island. Pushing thoughts of delicious lands of food from your mind, you wonder what could have hatched from it?**\nGain 2 lore as your knowledge of the valley expands.",
+                "ru": "**Перед вами лежит непостижимо огромная яичная скорлупа, расколотая и сухая. Ее белок мог бы быть океаном, а желток — островом. Отогнав мысли о вкусных землях, полных еды, вы задаетесь вопросом: что же могло вылупиться из такого яйца?**\nПолучите 2 знания, ваше понимание долины расширяется."
+            }
+        },
+        {
+            "id": "comet-FF04",
+            "icon": "Comet",
+            "code": "FF04",
+            "repeatable": false,
+            "description": {
+                "en": "**In the gnarled bark of a tree, you find a mark that traces the wanderer’s lonely path across the sky. Digging about its roots, you find a chunk of a strange, pearlescent material.**\nIf the coral mark is not on the primal cave wall, gain 1 coral and illustrate the Saga of the Strange Coral on the primal cave wall, including the coral mark.",
+                "ru": "**В узловатой коре дерева вы находите отметину, повторяющую одинокий путь странника по небу. Разрывая землю у корней, вы обнаруживаете кусок странного перламутрового материала.**\nЕсли отметина коралла отсутствует на стене древней пещеры, получите 1 коралл и изобразите Сагу о Странном Коралле на стене пещеры, включая отметину коралла.\n![Coral mark](Coral_mark.png)"
+            }
+        },
+        {
+            "id": "comet-D14",
+            "icon": "Comet",
+            "code": "D14",
+            "repeatable": true,
+            "description": {
+                "en": "**You find a patch of pale, stalk-like protrusions in the darkness. As you approach, they shrink into husks.**\nIf the coral mark is not on the primal cave wall, gain 1 coral and illustrate the Saga of the Strange Coral on the primal cave wall, including the coral mark. If the coral mark is on the primal cave wall, gain 2 coral instead.",
+                "ru": "**Вы находите скопление бледных, стеблевидных выступов во тьме. Когда вы приближаетесь, они сжимаются, превращаясь в шелуху.**\nЕсли отметина коралла отсутствует на стене древней пещеры, получите 1 коралл и изобразите Сагу о Странном Коралле на стене пещеры, включая отметину. Если отметина уже есть, получите 2 коралла вместо этого.\n![Coral mark](Coral_mark.png)"
+            }
+        },
+        {
+            "id": "cloud-BT2",
+            "icon": "Cloud",
+            "code": "BT2",
+            "repeatable": true,
+            "description": {
+                "en": "**You play your song and, as you do, a strange, silvery substance wells up in rivulets around the behemoth's roots. Perhaps it is drawing this odd liquid up from the earth?**\nInstead of resolving the printed effect of success, gain 2 moonblood.",
+                "ru": "**Вы играете свою мелодию, и вокруг корней исполина появляются серебристые ручейки странной субстанции. Возможно, он поднимает эту жидкость из глубин земли?**\nВместо обычного эффекта успеха получите 2 лунной крови."
+            }
+        },
+        {
+            "id": "cloud-BT3",
+            "icon": "Cloud",
+            "code": "BT3",
+            "repeatable": true,
+            "description": {
+                "en": "**Your song begins faint against the swelling storm, but its notes begin to cut through the thunderous cacophony. Soon, the peals of thunder cease, and the storm dissipates into a gentle rain. The behemoth basks in the pleasant, warm rainfall. There is something pure, almost curative about this experience.**\nInstead of resolving the printed effect of success, each character in your hex gains 1 water and degrades up to 1 disease.",
+                "ru": "**Ваша песня едва слышна среди разбушевавшейся бури, но её ноты постепенно пробиваются сквозь громовой хаос. Вскоре раскаты стихают, и шторм превращается в тихий дождь. Исполин наслаждается тёплыми каплями. В этом есть что-то чистое, почти целительное.**\nВместо обычного эффекта успеха каждый персонаж в вашем гексе получает 1 воду и может снять 1 болезнь."
+            }
+        },
+        {
+            "id": "cloud-BT4",
+            "icon": "Cloud",
+            "code": "BT4",
+            "repeatable": true,
+            "description": {
+                "en": "**The behemoth's thrashing is terrifying at first, but you continue to play your song. As you do, its movements match the rhythm of your tune, growing gentler and more subdued. As its dance comes to a close, the behemoth departs peaceably, leaving behind upturned earth and stones.**\nInstead of resolving the printed effect of success, gain 1 sunstone, cloudstone, riverstone, or clay. The behemoth flees to an adjacent hex of your choice, ignoring its movement values.",
+                "ru": "**Бешеные движения исполина поначалу ужасают, но вы продолжаете играть. Постепенно его движения начинают соответствовать ритму вашей мелодии, становясь плавнее. Закончив танец, исполин мирно удаляется, оставляя после себя перевёрнутую землю и камни.**\nВместо обычного эффекта успеха получите 1 солнечный камень, облачный камень, речной камень или глину. Исполин бежит в соседний гекс на ваш выбор, игнорируя ограничения движения."
+            }
+        },
+        {
+            "id": "cloud-BT5",
+            "icon": "Cloud",
+            "code": "BT5",
+            "repeatable": true,
+            "description": {
+                "en": "**The tune you weave is a pale flame before the freezing fog emanating from the behemoth. Yet it grows in strength, warming you and melting away the chill. The behemoth turns to regard you with some inscrutable emotion, then settles quietly as if listening to your performance.**\nInstead of resolving the printed effect of success, gain 1 ![Energy](Energy.png). If your ![Energy](Energy.png) is full, degrade up to 1 injury or disease instead.",
+                "ru": "**Ваша мелодия - как бледное пламя перед ледяным туманом исполина. Но оно крепнет, согревая вас и рассеивая холод. Исполин поворачивается к вам с непостижимым выражением, затем затихает, словно внимательно слушая.**\nВместо обычного эффекта успеха получите 1 ![Energy](Energy.png). Если слот ![Energy](Energy.png) заполнен, снимите 1 травму или болезнь."
+            }
+        },
+        {
+            "id": "moon-PC01",
+            "icon": "Moon",
+            "code": "PC01",
+            "repeatable": true,
+            "description": {
+                "en": "**This valley seems to have some connection to the moon, or so the icy, rolling peaks would suggest. As you enter the vale, you follow the rippling moonlight to a flow of glacial water.**\nGain 1 water and 1 lore as your knowledge of the valley expands.",
+                "ru": "**Эта долина, кажется, связана с луной — на это намекают её ледяные перекатывающиеся пики. Следуя за мерцающим лунным светом, вы находите поток ледниковой воды.**\nПолучите 1 воду и 1 знание, расширяя своё понимание долины."
+            }
+        },
+        {
+            "id": "moon-I3",
+            "icon": "Moon",
+            "code": "I3",
+            "repeatable": true,
+            "description": {
+                "en": "**Your sight falls upon three strange pillars that reverberate. A lifting melancholy settles on you like an autumn frost. Just beyond your perception, you feel voices from the past whispering.**\nYou may test ![Awareness](Awareness.png) to pick out the voices of the past. Add +2 if you are attuned. You may spend up to 3 lore to add +1 per lore spent this way.\n12+: You listen to the whispers and your mind journeys with the legends of ages past. If you do not already have it, add mantle ability MA07 to your available mantle abilities in future games.\n1–11: You become lost amidst the cacophany of eons. Lose 1 ![Energy](Energy.png).",
+                "ru": "**Вы замечаете три странных вибрирующих столпа. Тоска окутывает вас, как осенний иней. На грани восприятия слышны шёпоты прошлого.**\nМожно испытать ![Awareness](Awareness.png), чтобы услышать голоса. +2 если вы в гармонии. Можно потратить до 3 знаний для получения +1 за каждое.\n12+: Вы слышите шёпоты и переноситесь в легенды прошлого. Если у вас нет способности MA07, добавьте её к доступным в будущих играх.\n1–11: Вы теряетесь в хаосе веков. Потеряйте 1 ![Energy](Energy.png)."
+            }
+        },
+        {
+            "id": "moon-I11",
+            "icon": "Moon",
+            "code": "I11",
+            "repeatable": true,
+            "description": {
+                "en": "**The great stones rise from the earth before you. Circling their perimeter, you can’t help but wonder if they form a pattern. You might be able to tell from the ridgeline to the north.**\nYou may test ![Conviction](Conviction.png) to scale the ridgeline. Add +2 if you have a Rope. You may spend up to 3 lore to add +1 per lore spent this way.\n12+: You make the journey without incident. At the top of the ridgeline, staring across the chasms, you see that the stones form a crescent that evokes floating moon, visible as it crests the horizon. Gain 3 lore as your knowledge of the valley expands.\n11–6: You lose your nerve and return to safer ground. Lose 1 ![Energy](Energy.png).\n1–5: You plummet to the bottom of a chasm, and must spend the day dragging yourself out. Suffer a major injury and lose 1 ![Energy](Energy.png).",
+                "ru": "**Перед вами возвышаются огромные камни. Обходя их, вы задумываетесь — не образуют ли они узор? Возможно, с северного хребта будет видно.**\nМожно испытать ![Conviction](Conviction.png) при подъёме. +2 если есть верёвка. Можно потратить до 3 знаний для получения +1 за каждое.\n12+: Вы добираетесь без происшествий. С вершины видно, что камни образуют полумесяц, напоминающий плывущую луну. Получите 3 знания.\n11–6: Вы отступаете. Потеряйте 1 ![Energy](Energy.png).\n1–5: Вы падаете в расщелину, тратя день на подъём. Получите тяжёлую травму и потеряйте 1 ![Energy](Energy.png)."
+            }
+        },
+        {
+            "id": "moon-D4",
+            "icon": "Moon",
+            "code": "D4",
+            "repeatable": true,
+            "description": {
+                "en": "**Within the deep domain, you find a silver pool. From within it, the moon’s reflection stares up at you even though you cannot see the sky.**\nIf the Moonblood Mark is not on the primal cave wall, gain 1 lore, gain 1 moonblood, illustrate the Saga of the Moon’s Blood on the primal cave wall (including the Moonblood Mark), and add the Moonblood Mark to your character card. If the Moonblood Mark is on your primal cave wall, instead gain 2 moonblood.\n![Moonblood_mark](Moonblood_mark.png)",
+                "ru": "**В глубинах вы находите серебристый водоём. В нём отражается луна, хотя неба не видно.**\nЕсли отметина Лунной Крови отсутствует на стене пещеры: получите 1 знание, 1 лунную кровь, изобразите Сагу Лунной Крови на стене (включая отметину) и добавьте её на карту персонажа. Если отметина есть, получите 2 лунной крови.\n![Moonblood_mark](Moonblood_mark.png)"
+            }
+        },
+        {
+            "id": "moon-FF08",
+            "icon": "Moon",
+            "code": "FF08",
+            "repeatable": true,
+            "description": {
+                "en": "**In the fur of a magnificent prey-beast, you spot a mark that evokes the icy arc of the crescent moon. Following the creature through the forest’s twists and turns, you attempt to catch it, only to lose sight of it somewhere in the woods.**\nWhen you end this foraging trip, you cannot choose the feature with this omen. Gain 1 lore and a major boost to ![Conviction](Conviction.png).",
+                "ru": "**В шерсти величественного зверя вы замечаете символ, напоминающий ледяной серп луны. Преследуя его через лесные тропы, вы в итоге теряете его из виду.**\nПосле этого сбора ресурсов нельзя выбрать эту локацию. Получите 1 знание и значительный бонус к ![Conviction](Conviction.png)."
+            }
+        },
+        {
+            "id": "moon-FPO1",
+            "icon": "Moon",
+            "code": "FPO1",
+            "repeatable": true,
+            "description": {
+                "en": "**In the creek’s flow, you see the snowy surface of the moon reflected in the ripples spread by a beautiful fish. You move to catch the fish, and it slips away from your grasp as surely as the moon’s reflection on the water’s surface. You ponder the nature of this phenomenon.**\nWhen you end this foraging trip, you cannot choose the feature with this omen. Gain 1 lore and a major boost to ![Awareness](Awareness.png).",
+                "ru": "**В ручье вы видите отражение луны на ряби, оставленной прекрасной рыбой. Пытаясь поймать её, вы терпите неудачу — как невозможно ухватить лунный свет на воде.**\nПосле этого сбора ресурсов нельзя выбрать эту локацию. Получите 1 знание и значительный бонус к ![Awareness](Awareness.png)."
+            }
+        },
+        {
+            "id": "moon-D36",
+            "icon": "Moon",
+            "code": "D36",
+            "repeatable": true,
+            "description": {
+                "en": "**In the darkness, you spot several pearlescent orbs sitting beneath the creature.**\nYou may test ![Conviction](Conviction.png) to approach cautiously and seize several of the spheres.\n10+: You manage to grab several of the objects, and feel a gentle thrum from within. Gain 3 lore.\n1–9: The creature awakens to lunge at you, slashing you before you tumble into the hole to your left. Suffer 1 major injury and select the lefthand path.",
+                "ru": "**Во тьме вы замечаете перламутровые сферы под существом.**\nМожно испытать ![Conviction](Conviction.png) для осторожного приближения.\n10+: Вы захватываете сферы и чувствуете их пульсацию. Получите 3 знания.\n1–9: Существо атакует, нанося тяжёлую травму. Вы падаете в левую расщелину."
+            }
+        },
+        {
+            "id": "moon-BT10",
+            "icon": "Moon",
+            "code": "BT10",
+            "repeatable": false,
+            "description": {
+                "en": "**The behemoth’s roar is agonizing, but you notice that it remains immobile while bellowing to the sky. Using the opportunity to close the gap, you vault between the creature’s legs. It seems to lose track of you in the chaos, and in its bewilderment, wanders off.**\nInstead of resolving the printed effect of success, the behemoth flees to an adjacent hex of your choice, ignoring its movement values.",
+                "ru": "**Рёв исполина оглушителен, но он замирает на месте. Вы проскальзываете между его ног, и он, потеряв вас из виду, уходит.**\nВместо обычного эффекта успеха исполин бежит в соседний гекс (игнорируя ограничения движения)."
+            }
+        },
+        {
+            "id": "moon-BT11",
+            "icon": "Moon",
+            "code": "BT11",
+            "repeatable": false,
+            "description": {
+                "en": "**Picking up a stone from the ground near you, you hurl it with all your might near the behemoth. It turns and stomps upon the stone’s location, allowing you to depart undetected.**\nInstead of resolving the printed effect of success, you and any number of other characters in your hex may immediately spend ![Energy](Energy.png) to move to an adjacent hex.",
+                "ru": "**Вы бросаете камень рядом с исполином, отвлекая его. Пока он давит камень, вы скрываетесь.**\nВместо обычного эффекта успеха вы и другие персонажи в гексе можете потратить ![Energy](Energy.png) для мгновенного перемещения."
+            }
+        }
+    ]
+}
