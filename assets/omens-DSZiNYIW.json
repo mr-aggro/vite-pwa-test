@@ -146,7 +146,7 @@
             "id": "moon-BT10",
             "icon": "Moon",
             "code": "BT10",
-            "repeatable": false,
+            "repeatable": true,
             "description": {
                 "en": "**The behemoth’s roar is agonizing, but you notice that it remains immobile while bellowing to the sky. Using the opportunity to close the gap, you vault between the creature’s legs. It seems to lose track of you in the chaos, and in its bewilderment, wanders off.**\nInstead of resolving the printed effect of success, the behemoth flees to an adjacent hex of your choice, ignoring its movement values.",
                 "ru": "**Рёв исполина оглушителен, но он замирает на месте. Вы проскальзываете между его ног, и он, потеряв вас из виду, уходит.**\nВместо обычного эффекта успеха исполин бежит в соседний гекс (игнорируя ограничения движения)."
@@ -156,10 +156,170 @@
             "id": "moon-BT11",
             "icon": "Moon",
             "code": "BT11",
-            "repeatable": false,
+            "repeatable": true,
             "description": {
                 "en": "**Picking up a stone from the ground near you, you hurl it with all your might near the behemoth. It turns and stomps upon the stone’s location, allowing you to depart undetected.**\nInstead of resolving the printed effect of success, you and any number of other characters in your hex may immediately spend ![Energy](Energy.png) to move to an adjacent hex.",
                 "ru": "**Вы бросаете камень рядом с исполином, отвлекая его. Пока он давит камень, вы скрываетесь.**\nВместо обычного эффекта успеха вы и другие персонажи в гексе можете потратить ![Energy](Energy.png) для мгновенного перемещения."
+            }
+        },
+        {
+            "id": "moon-BT12",
+            "icon": "Moon",
+            "code": "BT12",
+            "repeatable": true,
+            "description": {
+                "en": "**The behemoth vaults toward you, and instead of fleeing, you run toward it, sliding past the point of impact moments before it lands. The behemoth continues its path away from you, smashing the terrain in its wake and leaving valuable resources accessible.**\nInstead of resolving the printed effect of success, the behemoth flees to an adjacent hex of your choice, ignoring its movement values. If there is a forest or plains in your hex, gain 2 wood. Otherwise, gain 2 water.",
+                "ru": "**Исполин бросается на вас, но вы не убегаете, а проскальзываете мимо в последний момент. Он проходит сквозь местность, оставляя после себя доступные ресурсы.**\nВместо обычного эффекта успеха исполин бежит в соседний гекс (игнорируя ограничения движения). Если в вашем гексе есть лес или равнина, получите 2 дерева. Иначе получите 2 воды."
+            }
+        },
+        {
+            "id": "moon-BT13",
+            "icon": "Moon",
+            "code": "BT13",
+            "repeatable": true,
+            "description": {
+                "en": "**The stones crawling up the behemoth’s side encase it in a strange cocoon of rock. You wait some time, and eventually the behemoth shakes lose the stones and goes on its merry way, leaving the rocks for you to harvest.**\nInstead of resolving the printed effect of success, the behemoth flees to an adjacent hex of your choice, ignoring its movement values. Gain 1 cloudstone, sunstone, or riverstone.",
+                "ru": "**Камни обволакивают исполина, образуя каменный кокон. Когда он стряхивает их, вы собираете оставшиеся минералы.**\nВместо обычного эффекта успеха исполин бежит в соседний гекс. Получите 1 облачный камень, солнечный камень или речной камень."
+            }
+        },
+        {
+            "id": "moon-BT14",
+            "icon": "Moon",
+            "code": "BT14",
+            "repeatable": true,
+            "description": {
+                "en": "**You know that, when in this state, the behemoth is relatively inert and harmless. Studying it closely, you spot an interesting object wedged in its side. Carefully, you pry it loose before departing.**\nInstead of resolving the printed effect of success, roll 1 ![Dice](Dice.png) and gain 1 of the following:\n**1 or 2**: bone\n**3 or 4**: teeth\n**5**: shell\n**6**: coral",
+                "ru": "**В этом состоянии исполин безобиден. Вы замечаете интересный предмет в его боку и осторожно извлекаете его.**\nВместо обычного эффекта успеха 1 ![Dice](Dice.png) и получите:\n**1-2**: кость\n**3-4**: зуб\n**5**: ракушка\n**6**: коралл"
+            }
+        },
+        {
+            "id": "star-120",
+            "icon": "Star",
+            "code": "120",
+            "repeatable": false,
+            "description": {
+                "en": "**The rough stones that crack through the landscape glitter in the light of the rising stars. Looking closely at the stone, you notice that it flakes into sharp edges more easily than most rocks you have encountered.**\nGain 1 flaked riverstone and 1 lore as your knowledge of the valley expands.",
+                "ru": "**Грубые камни, пробивающиеся сквозь почву, сверкают в свете восходящих звёзд. При ближайшем рассмотрении вы замечаете, что этот камень легко раскалывается на острые пластины.**\nПолучите 1 речной сланец и 1 знание, расширяя познания о долине."
+            }
+        },
+        {
+            "id": "star-BT1",
+            "icon": "Star",
+            "code": "BT1",
+            "repeatable": true,
+            "description": {
+                "en": "**The flickering light plays across the behemoth, illuminating the many facets of its great, crystalline face. You see flashes of the past, present, and the future that might be.**\nInstead of resolving the printed effect of success, gain 3 lore. Then look at the top card of the Night deck. You may put it on the bottom of the Night deck.",
+                "ru": "**Мерцающий свет играет на кристаллической поверхности исполина, показывая вам вспышки прошлого, настоящего и возможного будущего.**\nВместо обычного эффекта успеха получите 3 знания. Затем посмотрите верхнюю карту колоды Ночи и можете положить её в низ колоды."
+            }
+        },
+        {
+            "id": "star-BT2",
+            "icon": "Star",
+            "code": "BT2",
+            "repeatable": true,
+            "description": {
+                "en": "**As the behemoth's glistening blooms of frost begin to open, its massive head turns toward the sources of light. It slinks back, ending its display early.**\nInstead of resolving the printed effect of success, the behemoth flees to an adjacent hex of your choice, ignoring its movement values.",
+                "ru": "**Когда ледяные узоры на теле исполина начинают расцветать, он поворачивается к источнику света и отступает, прерывая своё представление.**\nВместо обычного эффекта успеха исполин бежит в соседний гекс (игнорируя ограничения движения)."
+            }
+        },
+        {
+            "id": "star-BT3",
+            "icon": "Star",
+            "code": "BT3",
+            "repeatable": true,
+            "description": {
+                "en": "**The piercing light falls upon the behemoth, splitting the storm that forms around its head. A single spear of lightning cracks from the sky, smashing into a shrub near you. With that, the storm breaks, and the behemoth withdraws.**\nInstead of resolving the printed effect of success, add <fire> to your hex. Then, the behemoth flees to an adjacent hex of your choice, ignoring its movement values.",
+                "ru": "**Яркий свет рассекает бурю вокруг исполина. Молния ударяет в куст рядом с вами, после чего исполин отступает.**\nВместо обычного эффекта успеха добавьте <огонь> в ваш гекс, затем исполин бежит в соседний гекс."
+            }
+        },
+        {
+            "id": "star-BT4",
+            "icon": "Star",
+            "code": "BT4",
+            "repeatable": true,
+            "description": {
+                "en": "**As the thorned tendrils smash the ground, you notice that they are carefully avoiding anywhere touched by the blazing light. The behemoth's wrath eventually subsides, and it withdraws.**\nInstead of resolving the printed effect of success, each character in your hex gains a major boost to ![Conviction](Conviction.png). Then, the behemoth flees to an adjacent hex of your choice, ignoring its movement values.",
+                "ru": "**Шипастые щупальца исполина избегают мест, освещённых ярким светом. Вскоре он отступает.**\nВместо обычного эффекта успеха каждый персонаж в гексе получает значительный бонус к ![Conviction](Conviction.png), затем исполин бежит в соседний гекс."
+            }
+        },
+        {
+            "id": "star-BT5",
+            "icon": "Star",
+            "code": "BT5",
+            "repeatable": true,
+            "description": {
+                "en": "**The rime begins to settle on your skin. But before the killing cold can rob you of life, it begins to melt under the piercing light. It slides off you harmlessly as water. The behemoth watches silently, its inscrutable head perhaps wearing an expression beyond your ken.**\nInstead of resolving the printed effect of success, each character in your hex gains 1 water, then degrades 1 injury, if able.",
+                "ru": "**Иней на вашей коже тает под ярким светом, стекая безвредной водой. Исполин молча наблюдает.**\nВместо обычного эффекта успеха каждый в гексе получает 1 воду и может снять 1 травму."
+            }
+        },
+        {
+            "id": "sun-I13",
+            "icon": "Sun",
+            "code": "I13",
+            "repeatable": true,
+            "description": {
+                "en": "**You find a strange plateau of hexagonal stones. They tower above the landscape, and you wonder how they might appear from above.**\nYou may test ![Might](Might.png) to climb the nearby mountain for a better vantage.\nAdd +2 if you have a Walking Stick. You may spend up to 3 lore to add +1 per lore spent this way.\n12+: You make the trek and are fresh enough at the top to notice that the stones bear a great likeness to the sun high above. This resonance seems more than coincidence to you, but what could it mean? You ponder the possibilities. If you do not already have it, add mantle ability MA08 to your available mantle abilities in future games.\n1–11: You grow very tired on your journey. Lose 1 ![Energy](Energy.png).",
+                "ru": "**Вы находите плато из шестиугольных камней, возвышающихся над местностью. Вам интересно, как они выглядят сверху.**\nМожно испытать ![Might](Might.png), чтобы взобраться на гору для обзора.\n+2 при наличии Посоха. Можно потратить до 3 знаний для получения +1 за каждое.\n12+: С вершины видно, что камни напоминают солнце. Если у вас нет способности MA08, добавьте её к доступным в будущих играх.\n1–11: Вы устаёте в пути. Потеряйте 1 ![Energy](Energy.png)."
+            }
+        },
+        {
+            "id": "sun-FF07",
+            "icon": "Sun",
+            "code": "FF07",
+            "repeatable": false,
+            "description": {
+                "en": "**You spot a strange hoofprint in the dirt. Looking closer, you notice that evokes the hot sun wheeling above you. Your instincts tell you to follow the path. As it wends its way through the woods, it leads you to a magnificent clearing filled with a bounty of plants.**\nStop foraging. If the mark of the sun (<sun>) is not on the primal cave wall, gain 1 nut, 1 grain, 1 mushroom, 1 fiber, 1 pitch, and 3 lore, then illustrate the Saga of the Great Bounty on the primal cave wall, including the mark of the sun. If the mark of the sun is on the primal cave wall, gain a major boost to an ability of choice instead.",
+                "ru": "**Вы замечаете странный след, напоминающий солнце. Следуя по нему, вы находите поляну с богатствами.**\nПрекратите сбор. Если отметина солнца (<sun>) отсутствует в пещере: получите 1 орех, 1 зерно, 1 гриб, 1 волокно, 1 смолу и 3 знания, затем изобразите Сагу Великого Дара в пещере. Если отметина есть, получите значительный бонус к выбранной характеристике."
+            }
+        },
+        {
+            "id": "sun-BT10",
+            "icon": "Sun",
+            "code": "BT10",
+            "repeatable": true,
+            "description": {
+                "en": "**The behemoth lets out its bellow, but when you offer up the item, the thunderous roar fades slowly. The behemoth reaches out to take the object, leaving behind an unexpected boon in your hand.**\nInstead of resolving the printed effect of success, the behemoth flees to an adjacent hex. Roll 1 ![Dice](Dice.png) and gain the following:\n1 or 2: 2 hide\n3 or 4: 2 clay\n5: 3 grain\n6: One item you have lost this game, if able. Otherwise, 1 moonblood (if you gave it coral) or 1 coral (if you gave it moonblood).",
+                "ru": "**Исполин берёт подношение и оставляет дар.**\nВместо обычного эффекта успеха исполин уходит. Бросьте 1 ![Dice](Dice.png):\n1-2: 2 шкуры\n3-4: 2 глины\n5: 3 зерна\n6: Верните 1 потерянный предмет. Иначе получите 1 лунную кровь (если дали коралл) или 1 коралл (если дали лунную кровь)."
+            }
+        },
+        {
+            "id": "sun-BT11",
+            "icon": "Sun",
+            "code": "BT11",
+            "repeatable": true,
+            "description": {
+                "en": "**You place the item carefully on the ground, then tap it thrice. The behemoth’s head snaps up, and it makes its way over. It scoops up the item with surprising grace and deposits a strange treasure in its place.**\nInstead of resolving the printed effect of success, the behemoth flees to an adjacent hex. Roll 1 ![Dice](Dice.png) and gain the following:\n1 or 2: 2 bone\n3 or 4: 2 riverstone\n5: 3 nuts\n6: One item you have lost this game, if able. Otherwise, 1 moonblood (if you gave it coral) or 1 coral (if you gave it moonblood).",
+                "ru": "**Исполин забирает предмет и оставляет сокровище.**\nВместо обычного эффекта успеха исполин уходит. Бросьте 1 ![Dice](Dice.png):\n1-2: 2 кости\n3-4: 2 речных камня\n5: 3 ореха\n6: Верните 1 потерянный предмет. Иначе получите 1 лунную кровь (если дали коралл) или 1 коралл (если дали лунную кровь)."
+            }
+        },
+        {
+            "id": "sun-BT12",
+            "icon": "Sun",
+            "code": "BT12",
+            "repeatable": true,
+            "description": {
+                "en": "**The behemoth stops in midair above you, the stones of its body split apart by some unthinkable force. The stones swivel impossibly, then smash into the ground a few feet away. When the dust cloud clears, the behemoth has trod into the distance, and fresh water springs up from the impact site.**\nInstead of resolving the printed effect of success, the behemoth flees to an adjacent hex. Each character in the hex gains 3 water.",
+                "ru": "**Исполин замирает в воздухе, его каменное тело разрывается неведомой силой. Камни падают рядом, и на месте удара бьёт источник. Исполин удаляется.**\nВместо обычного эффекта успеха исполин бежит в соседний гекс. Каждый персонаж в гексе получает 3 воды."
+            }
+        },
+        {
+            "id": "sun-BT13",
+            "icon": "Sun",
+            "code": "BT13",
+            "repeatable": true,
+            "description": {
+                "en": "**You place an offering near the behemoth’s body, and the rare material is pulled up into its body. The behemoth shudders and another object shakes loose, landing in front of you. It seems it wants you to take this object.**\nInstead of resolving the printed effect of success, roll 1 ![Dice](Dice.png) and gain the following:\n1 or 2: 2 wood\n3 or 4: 2 cloudstone\n5: 3 mushrooms\n6: One item you have lost this game, if able. Otherwise, 1 moonblood (if you gave it coral) or 1 coral (if you gave it moonblood).",
+                "ru": "**Исполин принимает ваше подношение и оставляет ответный дар.**\nВместо обычного эффекта успеха бросьте 1 ![Dice](Dice.png):\n1-2: 2 дерева\n3-4: 2 облачных камня\n5: 3 гриба\n6: Верните 1 потерянный предмет. Иначе получите 1 лунную кровь (если дали коралл) или 1 коралл (если дали лунную кровь)."
+            }
+        },
+        {
+            "id": "sun-BT14",
+            "icon": "Sun",
+            "code": "BT14",
+            "repeatable": true,
+            "description": {
+                "en": "**You leave a treasure near the behemoth, then walk on. When the next dawn breaks, you find it has made a reciprocal gift.**\nInstead of resolving the printed effect of success, at the beginning of the next Day phase, roll 1 ![Dice](Dice.png) and gain the following:\n1 or 2: 2 cloudstone\n3 or 4: 2 fiber\n5: 3 fish\n6: One item you have lost this game, if able. Otherwise, 1 moonblood (if you gave it coral) or 1 coral (if you gave it moonblood).",
+                "ru": "**Вы оставляете дар исполину, а на рассвете находите ответный подарок.**\nВместо обычного эффекта успеха в начале следующего Дня бросьте 1 ![Dice](Dice.png):\n1-2: 2 облачных камня\n3-4: 2 волокна\n5: 3 рыбы\n6: Верните 1 потерянный предмет. Иначе получите 1 лунную кровь (если дали коралл) или 1 коралл (если дали лунную кровь)."
             }
         }
     ]
